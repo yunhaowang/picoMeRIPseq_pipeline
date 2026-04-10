@@ -41,7 +41,7 @@ MeRIP-seq (N6-methyladenosine/m6A specific methylated RNA immunoprecipitation fo
 
 - IGV (version: 2.10.3) (https://software.broadinstitute.org/software/igv/home). Install IGV on a desktop or laptop computer.
 
-- In-house Python and R scripts (https://github.com/yunhaowang/picoMeRIPseq_pipeline/Utilities/). These scripts should be downloaded and placed in the working directory.
+- In-house Python and R scripts (https://github.com/yunhaowang/picoMeRIPseq_pipeline/tree/main/utilities/). These scripts should be downloaded and placed in the working directory.
 
 
 ## Install and Run
